@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Cartao de Vacina</string>
+    <string name="cart_o_de_vacina" translatable="false">Cartão de Vacina Digital</string>
+    <string name="vacina_o" translatable="false">Vacinação</string>
+    <string name="senha" translatable="false">Senha</string>
+    <string name="nome" translatable="false">Nome Completo</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="hist_rico_de_vacina" translatable="false">Histórico de Vacina</string>
+    <string name="campanha_de_vacina" translatable="false">Campanha de vacina</string>
+    <string name="posto_de_vavina" translatable="false">Posto de Vacina</string>
+    <string name="vacina_dispon_veis" translatable="false">Vacina disponíveis</string>
+    <string name="vacinas" translatable="false">vacinas</string>
+    <string name="agendamento" translatable="false">Agendamento</string>
+    <string name="nomeCompleto" translatable="false">Nome Completo</string>
+    <string name="btRegistrar" translatable="false">Cadastrar</string>
+    <string name="enderecoCompleto" translatable="false">Onde podemos lhe encontrar?</string>
+    <string name="hello_world" translatable="false">Olá Mundo</string>
+    <string name="title_activity_test" translatable="false">MainActivity</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="esqueceu_a_senha" translatable="false">Esqueceu a Senha?</string>
+    <string name="campanhas" translatable="false">Campanhas</string>
+    <string name="_4_anos" translatable="false">4 ANOS</string>
+    <string name="_12_meses" translatable="false">12 MESES</string>
+    <string name="ao_nascer" translatable="false">AO NASCER</string>
+    <string name="_6_meses" translatable="false">6 MESES</string>
+    <string name="ao_nascer_bcg_id" translatable="false">Ao nascer: BCG-ID</string>
+    <string name="hepatite_b" translatable="false">Hepatite B</string>
+    <string name="pentavalente_dtp_hib_hep_b" translatable="false">Pentavalente(DTP+Hib+Hep.B)</string>
+    <string name="poliomielite_inativa_vip" translatable="false">Poliomielite Inativa (VIP)</string>
+    <string name="triplice_viral_scr" translatable="false">Triplice Viral (SCR)</string>
+    <string name="meningoc_cica_c" translatable="false">Meningocócica C</string>
+    <string name="pneumoc_cica_valente" translatable="false">Pneumocócica valente</string>
+    <string name="triplice_bacteriana_dtp" translatable="false">Triplice Bacteriana (DTP)</string>
+    <string name="poliomielite_oral_vop" translatable="false">Poliomielite oral (VOP)</string>
+    <string name="varicela" translatable="false">Varicela</string>
+    <string name="febre_amarela" translatable="false">Febre Amarela</string>
+    <string name="_9_anos" translatable="false">9 ANOS (Meninas)</string>
+    <string name="papilomav_rus_humano_hpv" translatable="false">Papilomavírus Humano (HPV)</string>
+    <string name="bcg" translatable="false">BCG</string>
+    <string name="_11_a_14_anos_meninos" translatable="false">11 a 14 ANOS - Meninos</string>
+    <string name="_11_e_12_anos" translatable="false">11 e 12 anos</string>
+    <string name="meningoc_cica_acwy" translatable="false">Meningocócica ACWY</string>
+    <string name="hepatite_b_recombinante" translatable="false">Hepatite B (recombinante)</string>
+    <string name="dupla_bacteriana_adulto_dt" translatable="false">Dupla Bacteriana Adulto (dT)</string>
+    <string name="_3_dose" translatable="false">3ª Dose</string>
+    <string name="dose_nica" translatable="false">Dose Única</string>
+    <string name="_1_dose" translatable="false">1ª Dose</string>
+    <string name="refor_o" translatable="false">Reforço</string>
+    <string name="_2_refor_o" translatable="false">2º Reforço</string>
+    <string name="_2_dose" translatable="false">2ª Dose</string>
+    <string name="duas_dose_com_seis_meses_de_intervalo" translatable="false">Duas dose com seis meses de intervalo</string>
+    <string name="crian_a" translatable="false">Criança</string>
+    <string name="tr_s_dose" translatable="false">Três dose</string>
+    <string name="refor_o_a_cada_10_anos" translatable="false">Reforço a cada 10 anos</string>
+    <string name="duas_doses" translatable="false">Duas doses</string>
+    <string name="_30_a_59_anos" translatable="false">30 a 59 Anos</string>
+    <string name="_20_a_29_anos" translatable="false">20 a 29 Anos</string>
+    <string name="_60_anos_ou_mais" translatable="false">60 Anos ou mais</string>
+    <string name="gestante" translatable="false">Gestante</string>
+    <string name="_20_a_59_anos" translatable="false">20 a 59 Anos</string>
+    <string name="triplice_bacteriana_acelular_dtpa" translatable="false">Triplice Bacteriana acelular (dTpa)</string>
+    <string name="uma_dose_a_cada_gesta_o_a_partir_da_20_semana_gestacional" translatable="false">Uma dose a cada gestação ( a partir da 20ª semana Gestacional)</string>
+    <string name="vacinas_dispon_veis" translatable="false">Vacinas Disponíveis</string>
+    <string name="us_139_distrito_sanitario_vii_recife" translatable="false">US 139 DISTRITO SANITARIO VII RECIFE</string>
+    <string name="astrangenica" translatable="false">Astrangenica</string>
+    <string name="coronavac" translatable="false">Coronavac</string>
+    <string name="pfizer" translatable="false">Pfizer</string>
+    <string name="_10_000" translatable="false">10.000</string>
+    <string name="_11_000" translatable="false">11.000</string>
+    <string name="_5_000" translatable="false">5.000</string>
+    <string name="perfil" translatable="false">Perfil</string>
+    <string name="alterar_perfil" translatable="false">Alterar Perfil</string>
+    <string name="alterar_senha" translatable="false">Alterar Senha</string>
+    <string name="sobre" translatable="false">Sobre</string>
+    <string name="sair" translatable="false">Sair</string>
+    <string name="cpf">CPF</string>
+    <string name="sus">SUS</string>
+    <string name="n_mero_do_cart_o_do_sus">Número do Cartão do SUS</string>
+    <string name="posto_de_vacina_o">Posto de vacinação</string>
+    <string name="data">Data</string>
+    <string name="seu_agendamento">Seu Agendamento</string>
+</resources>

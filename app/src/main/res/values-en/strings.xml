@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cpf">CPF</string>
+    <string name="sus">SUS</string>
+    <string name="n_mero_do_cart_o_do_sus">Número do Cartão do SUS</string>
+    <string name="posto_de_vacina_o">Posto de vacinação</string>
+    <string name="data">Data</string>
+</resources>

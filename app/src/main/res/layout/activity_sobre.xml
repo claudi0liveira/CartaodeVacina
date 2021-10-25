@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@drawable/cantoesq"
+android:gravity="center_horizontal"
+android:orientation="vertical"
+tools:context=".SobreActivity">
+
+    <TextView
+        android:id="@+id/editTextTextPersonName2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:gravity="start"
+        android:text="     Sobre nós!"
+        android:textAlignment="gravity"
+        android:textColor="@color/black"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/editTextTextPersonName3"
+        android:layout_width="280dp"
+        android:layout_height="224dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:ems="10"
+        android:text="Olá! Nós somos o grupo Cartão de Vacina Digital, estamos sediado em Recife (PE) e nosso objetivo é tornar possível a troca de informações sobre vacina e vacinação."
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="198dp" />
+
+<TextView
+    android:id="@+id/editTextTextPersonName4"
+    android:layout_width="279dp"
+    android:layout_height="42dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginEnd="20dp"
+    android:ems="10"
+    android:text=" "
+    android:textColor="@color/black"
+    android:textSize="20dp"
+    tools:layout_editor_absoluteX="31dp"
+    tools:layout_editor_absoluteY="293dp" />
+
+    <TextView
+        android:id="@+id/editTextTextPersonName5"
+        android:layout_width="267dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:ems="10"
+        android:text="Desenvolvimento APP Mobile AV2 - UNINASSAU Turma - SI7AN."
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="327dp" />
+
+    <Button
+        android:id="@+id/btLink"
+        android:layout_width="318dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="50dp"
+        android:text="Contate-nos para maiores informações!"
+        android:backgroundTint="#EF2D2D"
+        android:shadowColor="#EF2D2D"
+        android:textColor="#FBF4F4"
+        android:textColorHint="#FBF4F4"
+        android:textColorLink="#FBF4F4" />
+
+</LinearLayout>
